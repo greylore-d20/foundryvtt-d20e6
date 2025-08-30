@@ -1,0 +1,126 @@
+{
+  "id": "d20e6",
+  "title": "D20E6",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Greylore",
+      "discord": "LordGreylore",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "classes",
+      "label": "Classes E6",
+      "path": "packs/classes",
+      "type": "Item",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "class-abilities",
+      "label": "Class Abilities E6",
+      "path": "packs/class-abilities",
+      "type": "Item",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "archetypes",
+      "label": "Archetypes E6",
+      "path": "packs/archetypes",
+      "type": "Item",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "feats",
+      "label": "Feats E6",
+      "path": "packs/feats",
+      "type": "Item",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "archetype-features-e6",
+      "label": "Archetype Features E6",
+      "path": "packs/archetype-features-e6",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf1"
+    },
+    {
+      "name": "races-e6",
+      "label": "Races E6",
+      "path": "packs/races-e6",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf1"
+    },
+    {
+      "name": "prestige-classes-e6",
+      "label": "Prestige Classes E6",
+      "path": "packs/prestige-classes-e6",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf1"
+    },
+    {
+      "name": "racial-traits",
+      "label": "Racial Traits",
+      "path": "packs/racial-traits",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf1"
+    },
+    {
+      "name": "traits",
+      "label": "Traits",
+      "path": "packs/traits",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf1"
+    }
+  ]
+}
